@@ -26,8 +26,8 @@
     flex-direction: column;
     height: 100vh;
     padding-top: 5rem;
-    padding-left: 5rem;
-    padding-right: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .home__title {
