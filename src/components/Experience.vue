@@ -53,7 +53,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin-top: 5rem;
+    margin-top: 500px;
 }
 
 .experience__section > * + * {
