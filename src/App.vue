@@ -58,6 +58,10 @@ import Foote from './components/Footer.vue';
 </template>
 
 <style scoped>
+main {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 .header {
     display: flex;
     padding: 2rem 2.5rem;
