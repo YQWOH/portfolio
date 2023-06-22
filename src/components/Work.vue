@@ -69,6 +69,7 @@
     display: flex;
     flex-direction: column;
     justify-content: start;
+    margin-top: 300px;
 }
 
 .work__section > * + * {
