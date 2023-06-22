@@ -135,6 +135,10 @@
     .about__title > span {
         font-size: var(--text-lg)
     }
+
+    .about__section {
+        margin-bottom: 50px;
+    }
 }
 
 @media (min-width: 768px) {
