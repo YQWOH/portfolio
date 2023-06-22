@@ -47,6 +47,8 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .about__section > * + * {
@@ -159,6 +161,9 @@
     .about__container > * + * {
         margin-top: 0;
         margin-left: 3rem;
+    }
+    .about__section {
+        margin-bottom: 50px;
     }
 }
 </style>
